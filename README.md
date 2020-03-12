@@ -30,6 +30,7 @@ Das Skript erwartet die Datei "soundfiles.txt" als Eingabedatei für die zu erze
 Diese liegt bei und kann nach belieben umgeändert oder ersetzt werden.
 
 Der Inhalt der "soundfiles.txt" als Beispiel: 
+
 0300_new_tag.mp3|Oh, eine neue Karte!
 
 0301_select_folder.mp3|Verwende die Lautstärketasten um einen Ordner für die Karte auszuwählen.
