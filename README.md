@@ -4,11 +4,11 @@ Ein Powershell-Skript zur automatischen Generierung von Text-to-Speech-Mediendat
 
 
 # Ersteller:
-Ein Herzliches Dank geht an https://github.com/ceear der den Skript ursprünglich geschrieben hat.
+Ein herzliches Dank geht an https://github.com/ceear, der das Skript ursprünglich geschrieben hat.
 
 
 # Hinweis:
-Dieser Powershell-Skript ist ausschließlich für Windows Benutzer geeignet.
+Dieses Powershell-Skript ist ausschließlich für Windows Benutzer geeignet.
 Empfohlen wird Windows 10.
 
 
@@ -27,7 +27,7 @@ Die Stimmhöhe kann unter Zeile 4 eingestellt werden.
 Der Bereich liegt zwischen -20.00 bis 20.00. Der Standard liegt bei 0.
 
 Das Skript erwartet die Datei "soundfiles.txt" als Eingabedatei für die zu erzeugenden Texte. 
-Diese liegt bei und kann nach belieben umgeändert oder ersetzt werden.
+Diese liegt bei und kann nach Belieben umgeändert oder ersetzt werden.
 
 Der Inhalt der "soundfiles.txt" als Beispiel: 
 
