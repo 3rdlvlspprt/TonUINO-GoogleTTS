@@ -42,7 +42,7 @@ https://cloud.google.com/text-to-speech/
 
 # Anleitung:
 1. Entsprechende Änderungen in der soundfiles.txt machen. (Optional)
-2. Start-*.ps1 starten. (*Je nachdem welche Stimme ihr auswählt.)
+2. Start-*.ps1 starten. (Rechtsklick auf die Datei und „Mit PowerShell ausführen“ anwählen.)
 3. Mit "Ja" bestätigen.
 4. Warten bis alles fertig ist.
 5. Mit Enter am Ende bestätigen.
