@@ -8,8 +8,9 @@ Einen herzlichen Dank geht an [ceear](https://github.com/ceear), der dieses Skri
 
 
 # Hinweis:
-Dieses Powershell-Skript ist ausschließlich für Windows Benutzer geeignet.
-Empfohlen wird Windows 10.
+1. Dieses Powershell-Skript ist ausschließlich für Windows Benutzer geeignet.
+
+2. Empfohlen wird Windows 10.
 
 
 # Vorwort:
@@ -45,8 +46,13 @@ https://cloud.google.com/text-to-speech/
 
 # Anleitung:
 1. Entsprechende Änderungen in der soundfiles.txt machen. (Optional)
+
 2. Start-*.ps1 starten. (Rechtsklick auf die Datei und „Mit PowerShell ausführen“ anwählen.)
+
 3. Mit "Ja" bestätigen.
+
 4. Warten bis alles fertig ist.
+
 5. Mit Enter am Ende bestätigen.
+
 6. Der Ziel-Ordner mit den TTS-Dateien öffnet sich automatisch.
