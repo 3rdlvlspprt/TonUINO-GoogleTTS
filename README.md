@@ -16,7 +16,7 @@ Empfohlen wird Windows 10.
 Für Google TTS wird ein entsprechender API-Key benötigt.
 Dieser Skript kommt mit einem API-Key und es wird kein eigener benötigt.
 
-Wer dennoch seinen eigenen API-Key verwenden möchte, der kann dies unter Zeile 2 ersetzen.
+Wer dennoch seinen eigenen API-Key verwenden möchte, der kann dies in der Zeile 2 ersetzen.
 Hier eine Anleitung wie ein API-Key erstellt wird:
 https://discourse.voss.earth/t/professionelle-stimme-gesucht/19/35
 
