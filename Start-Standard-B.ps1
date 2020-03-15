@@ -70,3 +70,4 @@ write-host ""
 write-host ""
 write-host -nonewline "Druecken Sie eine beliebige Taste, um fortzufahren..."
 [void][System.Console]::ReadKey($true)
+explorer.exe C:\TonUINO-TTS\GoogleTTS\de-DE-Standard-B
